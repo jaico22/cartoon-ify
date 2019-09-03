@@ -1,0 +1,14 @@
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\bin\Debug\netcoreapp2.1\cartoonify-server.deps.json
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\bin\Debug\netcoreapp2.1\cartoonify-server.runtimeconfig.json
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\bin\Debug\netcoreapp2.1\cartoonify-server.runtimeconfig.dev.json
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\bin\Debug\netcoreapp2.1\cartoonify-server.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.csprojAssemblyReference.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.csproj.CoreCompileInputs.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.RazorAssemblyInfo.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.RazorAssemblyInfo.cs
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.AssemblyInfoInputs.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.AssemblyInfo.cs
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.RazorTargetAssemblyInfo.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\bin\Debug\netcoreapp2.1\cartoonify-server.pdb
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\cartoonify-server\obj\Debug\netcoreapp2.1\cartoonify-server.pdb

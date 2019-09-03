@@ -1,0 +1,16 @@
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\Infastructure.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\Infastructure.pdb
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\obj\Debug\netcoreapp2.2\Core.csproj.CopyComplete
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\obj\Debug\netcoreapp2.2\Core.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\obj\Debug\netcoreapp2.2\Core.pdb
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\dll\x86\OpenCvSharpExtern.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\dll\x86\opencv_ffmpeg410.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\dll\x64\OpenCvSharpExtern.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Core\bin\Debug\netcoreapp2.2\dll\x64\opencv_ffmpeg410_64.dll

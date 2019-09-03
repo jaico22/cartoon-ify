@@ -1,0 +1,12 @@
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\bin\Debug\netcoreapp2.2\Infastructure.deps.json
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\bin\Debug\netcoreapp2.2\Infastructure.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\obj\Debug\netcoreapp2.2\Infastructure.csprojAssemblyReference.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\obj\Debug\netcoreapp2.2\Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\obj\Debug\netcoreapp2.2\Infastructure.AssemblyInfoInputs.cache
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\obj\Debug\netcoreapp2.2\Infastructure.AssemblyInfo.cs
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\obj\Debug\netcoreapp2.2\Infastructure.csproj.CopyComplete
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\bin\Debug\netcoreapp2.2\Infastructure.pdb
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\obj\Debug\netcoreapp2.2\Infastructure.dll
+C:\Users\phillip.miller\Documents\gitHub\cartoon-ify\server\cartoonify-server\Infastructure\obj\Debug\netcoreapp2.2\Infastructure.pdb

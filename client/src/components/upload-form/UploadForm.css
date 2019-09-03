@@ -1,0 +1,14 @@
+.form-container{
+    width: 100%;
+    text-align: center;
+}
+
+.upload-form{
+    border: 1px solid;
+    border-color: #969696;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 25px;
+    padding: 10px;
+}

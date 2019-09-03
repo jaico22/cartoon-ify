@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Core\\Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\phillip.miller\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phillip.miller\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Infastructure\\Infastructure.csproj": {
+                "projectPath": "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Infastructure\\Infastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.1.0.20190416, )"
+            },
+            "OpenCvSharp4.Windows": {
+              "target": "Package",
+              "version": "[4.1.0.20190416, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Infastructure\\Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Infastructure\\Infastructure.csproj",
+        "projectName": "Infastructure",
+        "projectPath": "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Infastructure\\Infastructure.csproj",
+        "packagesPath": "C:\\Users\\phillip.miller\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phillip.miller\\Documents\\gitHub\\cartoon-ify\\server\\cartoonify-server\\Infastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phillip.miller\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.1.0.20190416, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
